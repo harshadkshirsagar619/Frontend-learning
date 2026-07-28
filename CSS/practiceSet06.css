@@ -1,0 +1,39 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    background-color: aqua;
+}
+
+li{
+    list-style-type: none;
+    background-color: aqua;
+}
+
+
+#outer{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border: 2px,solid,black;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inner{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 2px,solid,black;
+    display: inline-block;
+    align-self:center;
+}

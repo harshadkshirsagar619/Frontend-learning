@@ -1,0 +1,35 @@
+div{
+    height: 230px;
+    width: 100px;
+    background-color:black;
+    
+}
+
+#green{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+
+#yellow{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+
+#red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}

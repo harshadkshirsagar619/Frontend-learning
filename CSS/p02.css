@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Times, serif
+}
+#one{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline dotted;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: rebeccapurple;
+}
+
+
+/*#heading{
+    color: burlywood;
+    background-color: yellow;
+}*/
+
+.demo{
+    color: black;
+    background-color: green;
+}
+#box{
+    color: blue;
+    background-color: wheat;
+}
+
+#submit{
+    background-color: green;
+}
+
+#head{
+    background-color: white;
+}
+

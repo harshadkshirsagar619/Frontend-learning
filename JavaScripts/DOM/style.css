@@ -1,0 +1,31 @@
+.myClass{
+    color: yellow;
+    text-decoration: underline dotted;
+}
+
+.newClass{
+    background-color: red;
+
+
+}
+
+/*
+button{
+    background-color: blue;
+    border: 2px solid black;
+
+}
+
+button:hover{
+    background-color: red;
+}
+
+body{
+    background-color: pink;
+}
+
+div{
+    background-color: yellow;
+    color: red;
+
+}*/
